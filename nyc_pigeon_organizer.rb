@@ -17,8 +17,7 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
-  #binding.pry
-  puts hash_out
+  hash_out
       
 end
 
